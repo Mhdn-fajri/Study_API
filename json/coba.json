@@ -1,0 +1,46 @@
+[
+    {
+        "nama" : "Muhammad Nurul Fajri",
+        "umur" : 20,
+        "nim" : "2217020054",
+        "lulus" : true,
+        "hobby" : [
+            "music",
+            "coding",
+            "sport"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Haditya Prasetyo",
+            "pembimbing 2" : "Novia Lestari"
+        }
+    },
+    {
+        "nama" : "Rahmad Awal Putra",
+        "umur" : 21,
+        "nim" : "2217020030",
+        "lulus" : false,
+        "hobby" : [
+            "reading",
+            "writing"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Teguh Brilian",
+            "pembimbing 2" : "Domi Sepri"
+        }
+    },
+    {
+        "nama" : "Amanda Manopo",
+        "umur" : 35,
+        "nim" : "1921993040",
+        "lulus" : false,
+        "hobby" : [
+            "singing",
+            "dancing",
+            "acting"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Raju Wandira",
+            "pembimbing 2" : "Yaslinda Lizard"
+        }
+    }
+]
