@@ -7,5 +7,6 @@ GET : https://www.googleapis.com/youtube/v3/channels
 API Youtube : AIzaSyA8I_jZRVK_eAPlGb6UQpdamSrAZKDJ_Sw
 part : snippet,statistics
 Id : UC41mWdykS0pPWIh9hrObAaQ
+URL : https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=UC41mWdykS0pPWIh9hrObAaQ&key=AIzaSyA8I_jZRVK_eAPlGb6UQpdamSrAZKDJ_Sw
 
 ---Instagram----
