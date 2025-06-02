@@ -28,8 +28,8 @@
                         <div class="form-group">
                             <label for="jurusan">Jurusan</label>
                             <select class="form-control" id="jurusan" name="jurusan">
-                                <?php foreach( $jurusan as $j ) : ?>
-                                    <?php if( $j == $mahasiswa['jurusan'] ) : ?>
+                                <?php foreach ($jurusan as $j) : ?>
+                                    <?php if ($j == $mahasiswa['jurusan']) : ?>
                                         <option value="<?= $j; ?>" selected><?= $j; ?></option>
                                     <?php else : ?>
                                         <option value="<?= $j; ?>"><?= $j; ?></option>
@@ -41,9 +41,6 @@
                     </form>
                 </div>
             </div>
-
-
         </div>
     </div>
-
 </div>

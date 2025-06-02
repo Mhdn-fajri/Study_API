@@ -19,12 +19,13 @@ SET time_zone = "+00:00";
 --
 -- Database: `phpmvc`
 --
-
+CREATE DATABASE phpmvc;
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `mahasiswa`
 --
+use phpmvc;
 
 CREATE TABLE `mahasiswa` (
   `id` int(11) NOT NULL,
