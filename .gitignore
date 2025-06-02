@@ -1,0 +1,9 @@
+# Abaikan file
+Catatan.txt
+
+# Abaikan folder
+/folder-tambahan/
+
+# Abaikan semua file dengan ekstensi tertentu
+*.log
+*.bak
