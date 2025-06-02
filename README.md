@@ -10,30 +10,32 @@ Repositori ini merupakan hasil tugas mata kuliah Integrasi Aplikasi Perusahaan (
 ## 📌 Daftar Fitur
 
 ### 1. 🌐 Laman Profile
-- Menampilkan informasi profil pemilik aplikasi.
-- Gambar ilustrasi profil diambil dari:
-json/image/porto.png
+Menampilkan informasi profil pemilik aplikasi.
 
+![Profile](https://github.com/username/repo-name/blob/main/json/image/porto.png?raw=true)
+
+---
 
 ### 2. 🍕 Laman Pizza Hut
-- Menampilkan informasi seputar produk Pizza Hut.
-- Gambar ilustrasi diambil dari:
-json/image/phd.png
+Menampilkan informasi seputar produk Pizza Hut.
 
+![Pizza Hut](https://github.com/username/repo-name/blob/main/json/image/phd.png?raw=true)
+
+---
 
 ### 3. 🎬 Laman Pencarian Film (OMDb API)
-- Mengintegrasikan API OMDb untuk pencarian film berdasarkan judul.
-- Pengguna dapat mengetik judul film dan melihat hasil berupa poster, tahun, dan detail lainnya.
-- Gambar ilustrasi diambil dari:
-json/image/film.png
+Pencarian film melalui API OMDb, menampilkan judul, poster, dan deskripsi film.
 
+![Pencarian Film](https://github.com/username/repo-name/blob/main/json/image/film.png?raw=true)
+
+---
 
 ### 4. 👨‍🎓 Ambil Data Mahasiswa
-- Menampilkan data mahasiswa dari sumber data API (JSON).
-- Digunakan untuk latihan manipulasi data dari API lokal maupun eksternal.
-- Gambar ilustrasi diambil dari:
-json/image/dmhs.png
+Menampilkan data mahasiswa yang diambil dari API lokal/eksternal.
 
+![Data Mahasiswa](https://github.com/username/repo-name/blob/main/json/image/dmhs.png?raw=true)
+
+---
 
 ---
 
